@@ -1,0 +1,49 @@
+body,html {
+	
+	height: 100%;
+	margin: 0;
+}
+
+.bg{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background position: center;
+
+}
+
+h1 {
+			font-size: 50pt;
+			color: white;
+			text-shadow: 24px 24px 24px black;
+		}
+
+h2 {
+			background: black;
+			font-size: 25pt;
+			color: white;
+			text-shadow: 24px 24px 24px black;
+		}
+h3 {
+			background: black;
+			font-size: 25pt;
+			color: white;
+			text-shadow: 24px 24px 24px black;
+		}
+
+h4 {
+			background: black;
+			font-size: 25pt;
+			color: white;
+			text-shadow: 24px 24px 24px black;
+		}
+h5 {
+			background: black;
+			font-size: 25pt;
+			color: white;
+			text-shadow: 24px 24px 24px black;
+		}
+
+h6 {
+	font-size: 40pt;
+}
